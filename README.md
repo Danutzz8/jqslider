@@ -1,3 +1,3 @@
 # jqslider
 
-Slider using JQuery only - no plugin
+Slider using JQuery only - no plugin - for OSF internship project
